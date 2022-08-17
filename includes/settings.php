@@ -16,5 +16,4 @@ $location = "";
 
 $referral_commision = '10';
 
-$tracked = "this is tracked";
 ?>
