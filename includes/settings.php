@@ -17,4 +17,6 @@ $location = "";
 $referral_commision = '10';
 
 $testing = "dont track";
+
+$track = "new track";
 ?>
